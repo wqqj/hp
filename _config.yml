@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shunchi Zhang 张顺驰"
+title                    : "Qiujing Wang 王秋景"
 title_separator          : "-"
-name                     : &name "Shunchi Zhang"
+name                     : &name "Qiujing Wang"
 description              : &description "personal description"
-url                      : https://shunchizhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qiujing.wang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shunchizhang/shunchizhang.github.io"
+repository               : "wqqj/hp"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ShunchiZhang
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shunchi Zhang 张顺驰"
-  avatar           : "profile-madison.jpg"
+  name             : "Qiujing Wang 王秋景"
+  avatar           : "profile.jpg"
   bio              : "Final year undergrad @ XJTU"
   location         : # "Xi'an, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=xg7NC2wAAAAJ"
-  email            : "mailto:shunchi.zhang@outlook.com"
+  googlescholar    : 
+  email            : "mailto:qiujing.wang@outlook.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,30 +96,29 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ShunchiZhang"
+  github           : # "wqqj"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : # "https://orcid.org/0009-0002-9507-4717"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # https://stackexchange.com/users/22437308?tab=accounts
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "ShunchiZhang"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/channel/UCXTtUl8rvL8OZHHmOb8_mZQ"
+  youtube          : 
   wikipedia        :
   # custom
-  bilibili         : # "https://space.bilibili.com/88753928/video"
-  wechat           : # "spikesz"
-  # wechat           : # "https://u.wechat.com/EIs-WvJiEYLpVz7ISj0Uzxs"
-  music            : # "https://music.163.com/user/580172398"
+  bilibili         : 
+  wechat           : qiujing_w
+  music            : 
 
 
 # Reading Files
