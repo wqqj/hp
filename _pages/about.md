@@ -30,5 +30,5 @@ Selected Honors and Awards
 ===
 
 - [Outstanding Winner & Frank Giordano Award](https://www.comap-math.com/mcm/2023Certs/2330003.pdf), Interdisciplinary Contest in Modeling (2023)
-- 1<sup>st</sup> Award, RoboCup China Open (2021)
-- MEGVII Scholarship(2021)
+- 1<sup>st</sup> Award, RoboCup China Open (2022)
+- MEGVII Scholarship (2021)
