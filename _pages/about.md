@@ -17,9 +17,9 @@ I'm a final year undergraduate student in artificial intelligence (with honors) 
 Working Paper
 ===
 <font color=gray size=3> <sup>*</sup>Equal contribution  </font>
-- <b> [Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind](https://arxiv.org/abs/2211.04684)</b><br>
+- <b> Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind</b><br>
 Mo Yu<sup>*</sup>, Qiujing Wang<sup>*</sup>, Shunchi Zhang<sup>*</sup>, Yisi Sang, Kangsheng Pu, Zekai Wei, Han Wang, Liyan Xu, Jing Li, Yue Yu, Jie Zhou<br>
-2024
+*Preprint*, 2024, [[Paper]]((https://arxiv.org/abs/2211.04684))
 
 Experience
 ===
