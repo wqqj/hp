@@ -19,7 +19,7 @@ Working Paper
 <font color=gray size=3> <sup>*</sup>Equal contribution  </font>
 - <b> Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind</b><br>
 Mo Yu<sup>*</sup>, <b>Qiujing Wang</b><sup>*</sup>, Shunchi Zhang<sup>*</sup>, Yisi Sang, Kangsheng Pu, Zekai Wei, Han Wang, Liyan Xu, Jing Li, Yue Yu, Jie Zhou<br>
-_Preprint_, 2024, [[Paper]]((https://arxiv.org/abs/2211.04684))<br>
+_Preprint_, 2024, [[Paper]](https://arxiv.org/abs/2211.04684)<br>
 
 Experience
 ===
