@@ -21,6 +21,10 @@ Working Paper
 Mo Yu<sup>*</sup>, <b>Qiujing Wang</b><sup>*</sup>, Shunchi Zhang<sup>*</sup>, Yisi Sang, Kangsheng Pu, Zekai Wei, Han Wang, Liyan Xu, Jing Li, Yue Yu, Jie Zhou<br>
 _Preprint_, 2024, [[Paper]](https://arxiv.org/abs/2211.04684)<br>
 
+- <b> Previously on the Stories: Recap Snippet Identification for Story Reading </b><br>
+Jiangnan Li, <b>Qiujing Wang</b>, Liyan Xu, Wenjie Pang, Mo Yu, Zheng Lin, Weiping Wang, Jie Zhou<br>
+_Preprint_, 2024, [[Paper]](https://arxiv.org/abs/2402.07271)<br>
+
 Experience 
 ===
 
