@@ -14,7 +14,7 @@ I'm a final year undergraduate student in artificial intelligence (with honors) 
 
 <!-- <b style="color:red">I'm looking for PhD opportunities in Fall 2024!</b> -->
 
-Working Paper
+Working Papers
 ===
 <font color=gray size=3> <sup>*</sup>Equal contribution  </font>
 - <b> Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind</b><br>
@@ -25,7 +25,7 @@ _Preprint_, 2024, [[Paper]](https://arxiv.org/abs/2211.04684)<br>
 Jiangnan Li, <b>Qiujing Wang</b>, Liyan Xu, Wenjie Pang, Mo Yu, Zheng Lin, Weiping Wang, Jie Zhou<br>
 _Preprint_, 2024, [[Paper]](https://arxiv.org/abs/2402.07271)<br>
 
-Experience 
+Experience
 ===
 
 - <b>Research Intern</b> @ WeChat AI, Tencent<br>
