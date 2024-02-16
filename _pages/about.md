@@ -10,7 +10,7 @@ redirect_from:
 <script src="https://kit.fontawesome.com/01957c83f7.js" crossorigin="anonymous"></script>
 <script src="assets/js/toggleAbstract.js"></script>
 
-I'm a final year undergraduate student in artificial intelligence (with honors) at [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn). I'm interested in natural language processing, computer vision and multimodal learning.
+I'm a final year undergraduate student in artificial intelligence (with honors) at [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn). I'm interested in natural language processing, multimodal learning and computer vision.
 
 <!-- <b style="color:red">I'm looking for PhD opportunities in Fall 2024!</b> -->
 
