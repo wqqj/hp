@@ -24,6 +24,8 @@ _ICML 2024 - International Conference on Machine Learning_, [[Paper]](https://ar
 - <b> Previously on the Stories: Recap Snippet Identification for Story Reading </b><br>
 Jiangnan Li, <b>Qiujing Wang</b>, Liyan Xu, Wenjie Pang, Mo Yu, Zheng Lin, Weiping Wang, Jie Zhou<br>
 _Preprint_, 2024, [[Paper]](https://arxiv.org/abs/2402.07271)<br>
+<!-- <font color=gray size=3> <sup>*</sup>Equal contribution  </font> -->
+
 
 Experience
 ===
