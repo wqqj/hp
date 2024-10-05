@@ -33,7 +33,7 @@ Experience
 - <b>Research Intern</b> @ WeChat AI, Tencent<br>
   Topic: Character modeling in books and screenplays.<br>
   Advisor: [Mo Yu](https://sites.google.com/site/moyunlp)<br>
-  Time: 2023.07 -- Present<br>
+  Time: 2023.07 -- 2024.08<br>
 - <b>Research Intern</b> @ Data Platform, Tencent<br>
   Topic: Text - Video Retrieval<br>
   Advisor: [Shaobo Min](https://scholar.google.com/citations?user=zUeQClwAAAAJ&hl=zh-CN), [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN)<br>
