@@ -10,8 +10,9 @@ redirect_from:
 <script src="https://kit.fontawesome.com/01957c83f7.js" crossorigin="anonymous"></script>
 <script src="assets/js/toggleAbstract.js"></script>
 
-I'm a final year undergraduate student in artificial intelligence (with honors) at [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn). I'm interested in natural language processing, multimodal learning and computer vision.
+<!-- I'm a final year undergraduate student in artificial intelligence (with honors) at [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn). I'm interested in natural language processing, multimodal learning and computer vision. -->
 
+I'm a Ph.D. student in Computer Science at [New Jersey Institute of Technology(NJIT)](https://www.njit.edu/). I'm looking for an internship!
 <!-- <b style="color:red">I'm looking for PhD opportunities in Fall 2024!</b> -->
 
 Working Papers
@@ -20,6 +21,11 @@ Working Papers
 - <b> Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind</b><br>
 Mo Yu<sup>*</sup>, <b>Qiujing Wang</b><sup>*</sup>, Shunchi Zhang<sup>*</sup>, Yisi Sang, Kangsheng Pu, Zekai Wei, Han Wang, Liyan Xu, Jing Li, Yue Yu, Jie Zhou<br>
 _ICML 2024 - International Conference on Machine Learning_, [[Paper]](https://arxiv.org/abs/2211.04684)<br>
+
+- <b> The essence of
+contextual understanding in theory of mind: a study on question answering with story characters</b><br>
+Chulun Zhou<sup>*</sup>, <b>Qiujing Wang</b><sup>*</sup>, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam<br>
+_In submission to ACL, 2025_, [[Paper]](https://arxiv.org/abs/2501.01705)<br>
 
 - <b> Previously on the Stories: Recap Snippet Identification for Story Reading </b><br>
 Jiangnan Li, <b>Qiujing Wang</b>, Liyan Xu, Wenjie Pang, Mo Yu, Zheng Lin, Weiping Wang, Jie Zhou<br>
@@ -42,6 +48,6 @@ Experience
 Selected Honors and Awards
 ===
 
-- [Outstanding Winner & Frank Giordano Award](https://www.comap-math.com/mcm/2023Certs/2330003.pdf) (Top 0.1%), Interdisciplinary Contest in Modeling (2023)
-- 1<sup>st</sup> Award, RoboCup China Open (2022)
+- [Outstanding Winner & Frank Giordano Award](https://www.comap-math.org/mcm/2023Certs/2330003.pdf) (Top 0.1%), Interdisciplinary Contest in Modeling (2023)
+- National 1<sup>st</sup> Award, RoboCup China Open (2021)
 - MEGVII Scholarship (2021)

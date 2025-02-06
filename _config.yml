@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qiujing Wang 王秋景"
   avatar           : "profile2.jpg"
-  bio              : "Final year undergrad @ XJTU"
+  bio              : "Ph.D. student" #"Final year undergrad @ XJTU"
   location         : # "Xi'an, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/wqqj/"
   orcid            : 
   pinterest        :
   soundcloud       :
