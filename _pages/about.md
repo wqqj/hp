@@ -12,7 +12,8 @@ redirect_from:
 
 <!-- I'm a final year undergraduate student in artificial intelligence (with honors) at [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn). I'm interested in natural language processing, multimodal learning and computer vision. -->
 
-I'm a Ph.D. student in Computer Science at [New Jersey Institute of Technology(NJIT)](https://www.njit.edu/). I'm looking for an internship!
+I'm a Master student in Computer Science at [New Jersey Institute of Technology(NJIT)](https://www.njit.edu/).
+<!-- I'm looking for an internship! -->
 <!-- <b style="color:red">I'm looking for PhD opportunities in Fall 2024!</b> -->
 
 Working Papers
@@ -20,12 +21,12 @@ Working Papers
 <font color=gray size=3> <sup>*</sup>Equal contribution  </font>
 - <b> Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind</b><br>
 Mo Yu<sup>*</sup>, <b>Qiujing Wang</b><sup>*</sup>, Shunchi Zhang<sup>*</sup>, Yisi Sang, Kangsheng Pu, Zekai Wei, Han Wang, Liyan Xu, Jing Li, Yue Yu, Jie Zhou<br>
-_ICML 2024 - International Conference on Machine Learning_, [[Paper]](https://arxiv.org/abs/2211.04684)<br>
+_ICML 2024_, [[Paper]](https://arxiv.org/abs/2211.04684)<br>
 
 - <b> The essence of
 contextual understanding in theory of mind: a study on question answering with story characters</b><br>
 Chulun Zhou<sup>*</sup>, <b>Qiujing Wang</b><sup>*</sup>, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam<br>
-_In submission to ACL, 2025_, [[Paper]](https://arxiv.org/abs/2501.01705)<br>
+_ACL 2025, main_, [[Paper]](https://arxiv.org/abs/2501.01705)<br>
 
 - <b> Previously on the Stories: Recap Snippet Identification for Story Reading </b><br>
 Jiangnan Li, <b>Qiujing Wang</b>, Liyan Xu, Wenjie Pang, Mo Yu, Zheng Lin, Weiping Wang, Jie Zhou<br>
@@ -35,7 +36,10 @@ _Preprint_, 2024, [[Paper]](https://arxiv.org/abs/2402.07271)<br>
 
 Experience
 ===
-
+- <b>Summer Intern</b> @ Core Local Commerce, Meituan<br>
+  Topic: Multimodal LLM for Dianping Homepage Moderation.<br>
+  Advisor: Chenglin Sun, Liang Ji<br>
+  Time: 2025.06 -- Present<br>
 - <b>Research Intern</b> @ WeChat AI, Tencent<br>
   Topic: Character modeling in books and screenplays.<br>
   Advisor: [Mo Yu](https://sites.google.com/site/moyunlp)<br>
